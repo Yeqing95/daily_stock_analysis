@@ -33,6 +33,7 @@ SMTP_CONFIGS = {
     "126.com": {"server": "smtp.126.com", "port": 465, "ssl": True},
     # Gmail
     "gmail.com": {"server": "smtp.gmail.com", "port": 587, "ssl": False},
+    "njit.edu": {"server": "smtp.gmail.com", "port": 587, "ssl": False},
     # Outlook
     "outlook.com": {"server": "smtp-mail.outlook.com", "port": 587, "ssl": False},
     "hotmail.com": {"server": "smtp-mail.outlook.com", "port": 587, "ssl": False},
